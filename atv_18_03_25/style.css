@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+}
+
+img{
+    position:relative;
+    width: 700px;
+    height: 700px;
+    align-content: center;
+    align-self: center;
+    padding-left: 30%;
+    fill: black;
+}
+
+header{
+    font-size: 1.5em;
+    position: relative;
+    color:red;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+
+h2, h3{
+    color: white;
+    position: relative;
+    padding-left: 5%;
+
+}
+
+li{
+    color: white;
+
+}
+
+html{
+    background-color: black;
+}
+
+#descricao{
+    color: crimson;
+    margin: 0%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    font-size: 24px;
+}
+
+a#DENUNCIE{
+    font-size: 25pt;
+    color: red;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    padding-left: 45%;
+}
+
+#crimes, #prevencao{
+    font-size: 24px;
+}
+
+#lista_crimes, #lista_prevencao{
+    font-size: 16px;
+}
+
